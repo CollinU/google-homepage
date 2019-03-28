@@ -1,0 +1,47 @@
+.center{
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 40%;
+    padding: 0;
+}
+
+#move-right{
+    display: inline-block;
+    margin-left: 36.5%;
+    margin-top:20px;
+}
+
+.inline{
+    display: inline;
+}
+
+.text-center{
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+}
+.right{
+    display: inline;
+    float: right;
+
+}
+.left{
+    display:inline;
+    float: left;
+}
+a {
+    display:block;
+    padding: 8px;
+}
+li a:hover{
+    color:black;
+}
+
+li a{
+    color:black;
+}
